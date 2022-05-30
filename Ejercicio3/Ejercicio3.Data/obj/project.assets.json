@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Ejercicio3.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ejercicio3.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ejercicio3.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio3.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Ejercicio3.Entities/Ejercicio3.Entities.csproj",
+      "msbuildProject": "../Ejercicio3.Entities/Ejercicio3.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Ejercicio3.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\KORTH\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\KORTH\\Documents\\IATec-MijailJhonatanPalominoRodriguez\\Ejercicio3\\Ejercicio3.Data\\Ejercicio3.Data.csproj",
+      "projectName": "Ejercicio3.Data",
+      "projectPath": "C:\\Users\\KORTH\\Documents\\IATec-MijailJhonatanPalominoRodriguez\\Ejercicio3\\Ejercicio3.Data\\Ejercicio3.Data.csproj",
+      "packagesPath": "C:\\Users\\KORTH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KORTH\\Documents\\IATec-MijailJhonatanPalominoRodriguez\\Ejercicio3\\Ejercicio3.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\KORTH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\KORTH\\Documents\\IATec-MijailJhonatanPalominoRodriguez\\Ejercicio3\\Ejercicio3.Entities\\Ejercicio3.Entities.csproj": {
+              "projectPath": "C:\\Users\\KORTH\\Documents\\IATec-MijailJhonatanPalominoRodriguez\\Ejercicio3\\Ejercicio3.Entities\\Ejercicio3.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\bin\Debug\net6.0\Ejercicio1.Entities.exe
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\bin\Debug\net6.0\Ejercicio1.Entities.deps.json
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\bin\Debug\net6.0\Ejercicio1.Entities.runtimeconfig.json
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\bin\Debug\net6.0\Ejercicio1.Entities.dll
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\bin\Debug\net6.0\Ejercicio1.Entities.pdb
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\obj\Debug\net6.0\Ejercicio1.Entities.csproj.AssemblyReference.cache
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\obj\Debug\net6.0\Ejercicio1.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\obj\Debug\net6.0\Ejercicio1.Entities.AssemblyInfoInputs.cache
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\obj\Debug\net6.0\Ejercicio1.Entities.AssemblyInfo.cs
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\obj\Debug\net6.0\Ejercicio1.Entities.csproj.CoreCompileInputs.cache
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\obj\Debug\net6.0\Ejercicio1.Entities.dll
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\obj\Debug\net6.0\refint\Ejercicio1.Entities.dll
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\obj\Debug\net6.0\Ejercicio1.Entities.pdb
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\obj\Debug\net6.0\Ejercicio1.Entities.genruntimeconfig.cache
+C:\Users\KORTH\Documents\IATec-MijailJhonatanPalominoRodriguez\Ejercicio1\Ejercicio3.Entities\obj\Debug\net6.0\ref\Ejercicio1.Entities.dll

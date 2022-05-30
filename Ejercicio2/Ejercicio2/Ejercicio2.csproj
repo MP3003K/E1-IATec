@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ejercicio2.Business\Ejercicio2.Business.csproj" />
+    <ProjectReference Include="..\Ejercicio2.Entities\Ejercicio2.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
